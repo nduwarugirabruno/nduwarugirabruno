@@ -1,7 +1,7 @@
 <img src="./.assets/java-coding-01.gif" style="object-fit: cover; width: 100%; height: 100%;" alt="java-coding-01.gif">
 
-<h1 style="text-align: center"> 👋 Hi, I’m Bruno NDUWARUGIRA </h1>
-<h3 style="text-align: center">A passionate Java developer in Cameroon</h3>
+<h1 align="center"> 👋 Hi, I’m Bruno NDUWARUGIRA </h1>
+<h3 align="center">A passionate Java developer in Cameroon</h3>
 <img align="right" alt="coding" width="400" src=".assets/java-coding-02.gif">
 
 - 👀 I’m interested in programmation
